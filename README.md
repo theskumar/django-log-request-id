@@ -1,7 +1,9 @@
 django-log-request-id (Forked)
 ==============================
 
-This is a un-maintained fork, for contribution purposes. Visit https://github.com/dabapps/django-log-request-id for more information.
+[![Build Status](https://travis-ci.org/theskumar/django-log-request-id.svg?branch=master)](https://travis-ci.org/theskumar/django-log-request-id)
+
+This is an un-maintained fork, for contribution purposes. Visit https://github.com/dabapps/django-log-request-id for more information.
 
 License
 -------
